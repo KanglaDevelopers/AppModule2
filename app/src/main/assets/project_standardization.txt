@@ -1,0 +1,37 @@
+This is file is to refer project standard rules for this project.
+The project standard that we mention will be applicable only for this project.
+
+
+
+Some of the naming standardization in Layout xml component are:
+TextView:       tv_first_second
+EditText:       et_first_second
+RecyclerView:   rv_first_second
+LinearLayout:   ll_first_second
+RelativeLayout: rl_first_second
+Button:         bt_first_second
+ToolBar         tb_first_second
+Fragment        fm_first_second
+Include         ic_first_second
+FrameLayout     fl_first_second
+ScrollView      sv_first_second
+
+
+
+
+Some of the naming standardization in  java class component are:
+
+TextView:             tvFirstSecond
+EditText:             etFirstSecond
+RecyclerView:         rvFirstSecond
+LinearLayout:         llFirstSecond
+RelativeLayout:       rlFirstSecond
+Button:               btFirstSecond
+ToolBar               tbFirstSecond
+Fragment              fmFirstSecond
+FragmentManager       fmmFirstSecond
+FragmentTransaction   fmtFirstSecond
+FrameLayout           flFirstSecond
+Adapter               FirstSecondAdapter
+ActionBarDrawerToggle abdtFirstSecond
+DrawerLayout          dlFirstSecond
